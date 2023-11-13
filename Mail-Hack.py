@@ -1,6 +1,7 @@
 import smtplib, sys, os, random
 from os import system
 import pyfiglet
+os.system("clear")
 OKGREEN = '\033[92m'
 WARNING = '\033[0;33m'
 FAIL = '\033[91m'
